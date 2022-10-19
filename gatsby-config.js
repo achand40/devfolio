@@ -15,19 +15,19 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `I write c`,
+    about: `Wanted to work at the intersection of math, code and business.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Penden',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'NLP powered Chrome Extension to make it easier for the blind to naviagate the internet. Built with JavaScript, Python, Docker and ElasticSearch',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Lawculus',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'Search engine for India lawyers. Built using BERT + Elasticsearch',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
@@ -40,7 +40,7 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
+        name: 'Ernest and Young',
         description: 'Full-Stack Developer, February 2020 - Present',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
