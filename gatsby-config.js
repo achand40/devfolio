@@ -15,61 +15,57 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Wanted to work at the intersection of math, code and business.`,
+    about: `Wanting to work at the intersection of math, code and business.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Penden',
         description:
           'NLP powered Chrome Extension to make it easier for the blind to naviagate the internet. Built with JavaScript, Python, Docker and ElasticSearch',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/achand40/penden',
       },
       {
         name: 'Lawculus',
         description:
-          'Search engine for India lawyers. Built using BERT + Elasticsearch',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Search engine for India lawyers. Built using BERT + Elasticsearch. Scaled to 5000+ queries per day.',
+        link: './',
       },
       {
-        name: 'Another Cool Project',
+        name: 'COVID Management',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Created a system for school officials to alert and manage COVID outbreaks. Used in 6 schools.',
+        link: './',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
         name: 'Ernest and Young',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        description: 'Full-Stack intern, April - July 2021',
+        link: './',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'LawIndia',
+        description: 'Founded LawIndia, which ran Lawculus. Used by 220+ lawyers',
+        link: '',
       },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Python',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'PostreSQL, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, ElasticSearch, AWS, GCP',
       },
     ],
   },
