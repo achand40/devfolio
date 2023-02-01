@@ -25,10 +25,10 @@ module.exports = {
         link: 'https://github.com/achand40/penden',
       },
       {
-        name: 'Lawculus',
+        name: 'Reaf',
         description:
-          'Search engine for India lawyers. Built using BERT + Elasticsearch. Scaled to 5000+ queries per day.',
-        link: './',
+          'Search aggregator for second hand fashion',
+        link: 'https://reaf.app/',
       },
       {
         name: 'COVID Management',
@@ -45,8 +45,8 @@ module.exports = {
         link: './',
       },
       {
-        name: 'LawIndia',
-        description: 'Founded LawIndia, which ran Lawculus. Used by 220+ lawyers',
+        name: 'Lawculus',
+        description: "Founder's assistant at Lawculus. Used by 220+ lawyers.",
         link: '',
       },
 
@@ -56,11 +56,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Python',
+          'JavaScript (ES6+), Python, SwiftUI',
       },
       {
         name: 'Databases',
-        description: 'PostreSQL, MySQL',
+        description: 'PostreSQL, MySQL, Firebase',
       },
       {
         name: 'Other',
