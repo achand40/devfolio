@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/achand40`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/abhijith-chandran/`,
     // Content of the About Me section
     about: `Wanting to work at the intersection of math, code and business.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -24,12 +24,7 @@ module.exports = {
           'NLP powered Chrome Extension to make it easier for the blind to naviagate the internet. Built with JavaScript, Python, Docker and ElasticSearch',
         link: 'https://github.com/achand40/penden',
       },
-      {
-        name: 'Reaf',
-        description:
-          'Search aggregator for second hand fashion',
-        link: 'https://reaf.app/',
-      },
+     
       {
         name: 'COVID Management',
         description:
@@ -41,7 +36,7 @@ module.exports = {
     experience: [
       {
         name: 'Ernest and Young',
-        description: 'Full-Stack intern, April - July 2021',
+        description: 'Full-Stack intern, May - July 2023',
         link: './',
       },
       {
@@ -49,6 +44,12 @@ module.exports = {
         description: "Founder's assistant at Lawculus. Used by 220+ lawyers.",
         link: '',
       },
+       {
+        name: 'Reaf',
+        description:
+          'Search aggregator for second hand fashion',
+        link: 'https://reaf.app/',
+      }
 
     ],
     // Optional: List your skills, they must have `name` and `description`.
